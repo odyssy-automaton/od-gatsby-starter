@@ -20,17 +20,17 @@ const IndexPage = () => (
           <div className="Column Column--33">
             <h1>React</h1>
             <p>This is a react app.</p>
-            <Link to="https://reactjs.org/docs/getting-started.html">Go to React Docs</Link>
+            <a href="https://reactjs.org/docs/getting-started.html" target="_blank" rel="noopener noreferrer">Go to React Docs</a>
           </div>
           <div className="Column Column--33">
             <h1>Gatsby</h1>
             <p>Git triggered deployment.</p>
-            <Link to="https://www.gatsbyjs.org/docs/">Go to Gatsby Docs</Link>
+            <a href="https://www.gatsbyjs.org/docs/" target="_blank" rel="noopener noreferrer">Go to Gatsby Docs</a>
           </div>
           <div className="Column Column--33">
             <h1>Netlify</h1>
             <p>Git triggered deployment.</p>
-            <Link to="https://docs.netlify.com/">Go to Netlify Docs</Link>
+            <a href="https://docs.netlify.com/" target="_blank" rel="noopener noreferrer">Go to Netlify Docs</a>
           </div>
         </div>
       </div>
