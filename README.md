@@ -32,6 +32,6 @@
 
     ```sh
     cd my-project/
-    gatsby develop
+    yarn develop
     ```
 
