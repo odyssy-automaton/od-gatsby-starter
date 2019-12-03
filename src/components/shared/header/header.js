@@ -1,6 +1,7 @@
 import React from 'react'
 import { Link } from 'gatsby'
 import Brand from '../../../images/Brutal__Icon.png'
+import TopNav from '../topNav/TopNav'
 
 import './header.scss'
 
@@ -13,9 +14,7 @@ const Header = ({ siteTitle }) => (
             {siteTitle}
         </h1>
       </Link>
-      <nav className="Nav">
-        <Link to="library">Library</Link>
-      </nav>
+      <TopNav />
     </div>
   </div>
 )
