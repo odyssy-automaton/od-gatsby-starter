@@ -16,7 +16,9 @@ module.exports = {
         icon: 'src/images/odyssy-icon.png',
       },
     },
+    'gatsby-plugin-netlify',
     'gatsby-plugin-offline',
     'gatsby-plugin-sass',
+    'gatsby-plugin-offline',
   ],
 }

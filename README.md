@@ -1,11 +1,5 @@
 #od-gatsby-starter
 
-## Features
-
-- Sass
-- TODO:
-  - Add web3
-
 ## Quick start
 
 1.  **Install the Gatsby CLI.**
@@ -34,4 +28,3 @@
     cd my-project/
     yarn develop
     ```
-
